@@ -10,6 +10,7 @@ Software Development Internship Tasks - Cognifyz Technologies
 ## Technologies Used
 - Java
 - Git & GitHub
+- VS Code
 
 ## Author
 Kunchangi Lakshmi Deepika
