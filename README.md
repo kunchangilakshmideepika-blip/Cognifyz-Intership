@@ -1,4 +1,4 @@
-# Cognifyz-Intership
+# Cognifyz Technologies Intership
 Software Development Internship Tasks - Cognifyz Technologies
 ## Tasks Completed
 - Level 1 Task 1 – Guessing Game
